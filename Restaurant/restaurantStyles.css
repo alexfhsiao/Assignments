@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap');
+
+
+body {
+    background-color: #dfdfdf;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #666666;
+}
+
+header {
+    font-family: 'DM Serif Display', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #444444;
+    background-color: #B1BED5;
+}
+.jumbotron{
+    background-color: #B1BED5;
+    margin-bottom: 1rem;
+    padding-bottom: 16px;
+}
+nav {
+    text-align: center;
+    border-top: thin #8693AB solid;
+    border-bottom: thin #8693AB solid;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom:12px;
+}
+
+nav .btn {
+    background-color: #B1BED5;
+    color: #444;
+    font-size: 22px;
+}
+nav .btn:hover {
+    font-weight: bold;
+}
+nav a:hover{
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+}
+.row {
+    background-color:#f4f3f3;
+    margin-left:0px;
+    margin-right: 0px;
+}
+.carousel-item{
+    height:150px;
+    text-align: center;
+    padding: 20px 30px 10px 30px;
+    background-color: #bfd8d5;
+}
+.subtitle {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+
+}
